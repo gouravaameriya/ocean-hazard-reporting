@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+supabase
+spacy
+nltk
+vaderSentiment
+opencv-python-headless
+scikit-learn
+httpx
